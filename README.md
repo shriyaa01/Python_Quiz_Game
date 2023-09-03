@@ -1,6 +1,6 @@
 # Python Quiz Game
 
-![Quiz Image](Image1.png)
+![Quiz Image](Image1.png) 
 
 ## Description
 
